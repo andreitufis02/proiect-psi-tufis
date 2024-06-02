@@ -11,7 +11,7 @@ PHP
 BOOTSTRAP 
 ```
 
-## Requirements Windows:
+## Cerințe pentru Windows:
 
 ```sh
 1. Descărcați și instalați: XAMPP în C:\xampp (implicit)
@@ -24,7 +24,7 @@ BOOTSTRAP
 8. Acum înregistrați-vă și autentificați-vă
 ```
 
-## Requirements Linux[Rocky Linux 9]:
+## Cerințe pentru Linux [Rocky Linux 9]:
 
 ```sh
 1. Instalați managerul de pachete dnf
