@@ -3,6 +3,9 @@ Proiect PSI - 2024 - TUFIȘ ANDREI-MIHAI
 
 Aplicație web simplă de rezervare hotelieră cu un sistem de gestionare a conținutului. Utilizatorii pot rezerva camere pentru date specifice. Administratorul poate crea, actualiza și șterge detalii despre camere. Administratorul poate gestiona totul în aplicație. Aplicație realizată pentru proiectul PSI - 2024 - INFOMATICĂ ECONOMICĂ, AN 3
 
+## Video
+<!--<a href="https://youtu.be/1D5VmlHG4bQ">Apasă aici-..</a>-->
+
 ## Tehnologii folosite
 
 ```sh
