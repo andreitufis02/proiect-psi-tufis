@@ -5,7 +5,7 @@ Aplicație web simplă de rezervare hotelieră cu un sistem de gestionare a con�
 
 ## Video
 <!--<a href="https://youtu.be/1D5VmlHG4bQ">Apasă aici-..</a>-->
-https://github.com/andreitufis02/proiect-psi-tufis/blob/main/PROIECT-PSI-VIDEOCLIP.mp4
+
 
 ## Tehnologii folosite
 
